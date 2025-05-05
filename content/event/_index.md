@@ -1,13 +1,7 @@
 ---
-title: Recent & Upcoming Talks
-cms_exclude: true
-#url: talk
-
-# View
-view: card
-
-# Optional cover image (relative to `assets/media/` folder).
-image:
-  caption: ''
-  filename: ''
+title: "Events"
+date: 2025-01-01
+type: widget_page
 ---
+
+Placeholder for upcoming talks, conferences, and meetings.
